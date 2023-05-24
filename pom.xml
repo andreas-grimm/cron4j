@@ -3,6 +3,10 @@
   <groupId>it.sauronsoftware</groupId>
   <artifactId>Cron4J</artifactId>
   <version>2.2.5-SNAPSHOT</version>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+  </properties>
   <name>Cron4J</name>
   <build>
     <sourceDirectory>src</sourceDirectory>
